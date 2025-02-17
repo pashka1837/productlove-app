@@ -41,7 +41,7 @@ export function MyForm() {
         <MyTextInput
           id="numReminders"
           name="number_of_reminders"
-          label="Кол-во нпоминаний"
+          label="Кол-во напоминаний"
           pattern="[^0]+\d{0,2}"
         />
       </div>
